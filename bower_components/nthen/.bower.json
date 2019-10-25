@@ -1,0 +1,14 @@
+{
+  "name": "nthen",
+  "homepage": "https://github.com/cjdelisle/nthen",
+  "version": "0.1.7",
+  "_release": "0.1.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.7",
+    "commit": "97381ded3517f90e29f3cc2cebf3a38840cb11a9"
+  },
+  "_source": "https://github.com/cjdelisle/nthen.git",
+  "_target": "0.1.7",
+  "_originalSource": "nthen"
+}

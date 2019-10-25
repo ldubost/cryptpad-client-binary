@@ -1,0 +1,37 @@
+{
+  "name": "chainpad-listmap",
+  "authors": [
+    "ansuz <ansuz@transitiontech.ca>"
+  ],
+  "description": "collaborative lists and maps in the browser using chainpad",
+  "main": "chainpad-listmap.js",
+  "keywords": [
+    "chainpad",
+    "realtime",
+    "netflux",
+    "json"
+  ],
+  "license": "AGPLv3.0",
+  "homepage": "https://github.com/xwiki-labs/chainpad-listmap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "json.sortify": "^2.1.0",
+    "chainpad-netflux": "^0.9.0"
+  },
+  "version": "0.7.2",
+  "_release": "0.7.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.7.2",
+    "commit": "626a81d9b2811b8b936d0fcf6937b53a5d3c2d55"
+  },
+  "_source": "https://github.com/xwiki-labs/chainpad-listmap.git",
+  "_target": "^0.7.0",
+  "_originalSource": "chainpad-listmap"
+}

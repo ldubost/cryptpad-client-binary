@@ -1,0 +1,24 @@
+{
+  "name": "chainpad-crypto",
+  "homepage": "https://github.com/xwiki-labs/chainpad-crypto",
+  "authors": [
+    "cjd@cjdns.fr"
+  ],
+  "description": "cryptography module for cryptpad",
+  "dependencies": {
+    "tweetnacl": "~0.12.2"
+  },
+  "main": "crypto.js",
+  "keywords": [
+    "chainpad",
+    "cryptography"
+  ],
+  "license": "AGPLv3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

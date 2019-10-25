@@ -1,0 +1,22 @@
+@import (reference) '../../customize/src/less2/include/framework.less';
+@import (reference) '../../customize/src/less2/include/messenger.less';
+
+// body
+&.cp-app-contacts {
+    .framework_min_main(
+        @bg-color: @colortheme_friends-bg,
+        @warn-color: @colortheme_friends-warn,
+        @color: @colortheme_friends-color
+    );
+
+    display: flex;
+    flex-flow: column;
+
+
+    #cp-toolbar {
+        display: flex; // We need this to remove a 3px border at the bottom of the toolbar
+    }
+
+    .messenger_main();
+}
+

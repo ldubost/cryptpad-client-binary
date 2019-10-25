@@ -1,0 +1,42 @@
+{
+  "name": "fabric.js",
+  "homepage": "http://fabricjs.com",
+  "authors": [
+    "kangax",
+    "Kienz",
+    "asturur"
+  ],
+  "description": "Object model for HTML5 canvas, and SVG-to-canvas parser. Backed by jsdom and node-canvas.",
+  "main": "./dist/fabric.min.js",
+  "ignore": [
+    "lib",
+    "src",
+    "test",
+    "build_all",
+    "build.js",
+    "build.sh",
+    "create_build_script.js",
+    "test.js",
+    "HEADER.js"
+  ],
+  "keywords": [
+    "canvas",
+    "graphic",
+    "graphics",
+    "SVG",
+    "node-canvas",
+    "parser",
+    "HTML5",
+    "object model"
+  ],
+  "license": "MIT",
+  "_release": "secure-v1.7.9",
+  "_resolution": {
+    "type": "tag",
+    "tag": "secure-v1.7.9",
+    "commit": "09d026e1886707f7a3d0492332e0f8b8892a2608"
+  },
+  "_source": "https://github.com/cjdelisle/secure-fabric.js.git",
+  "_target": "secure-v1.7.9",
+  "_originalSource": "secure-fabric.js"
+}

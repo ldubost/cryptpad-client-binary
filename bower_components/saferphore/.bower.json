@@ -1,0 +1,14 @@
+{
+  "name": "saferphore",
+  "homepage": "https://github.com/cjdelisle/saferphore",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "bbb7b6b4d9a1703ede459f5a230a31eebbb92cfb"
+  },
+  "_source": "https://github.com/cjdelisle/saferphore.git",
+  "_target": "^0.0.1",
+  "_originalSource": "saferphore"
+}

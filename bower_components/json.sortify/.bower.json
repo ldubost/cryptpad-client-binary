@@ -1,0 +1,38 @@
+{
+  "name": "json.sortify",
+  "description": "A deterministic version of JSON.stringify that sorts object keys alphabetically.",
+  "main": "dist/JSON.sortify.js",
+  "authors": [
+    "Thomas Rosenau <thomasr@fantasymail.de>"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "JSON",
+    "deterministic",
+    "stringify",
+    "sort",
+    "hash"
+  ],
+  "homepage": "https://github.com/ThomasR/JSON.sortify",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "2.1.0",
+  "_release": "2.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.1.0",
+    "commit": "7f799cf65301040cb5c6e94d408a6241d1f31bcb"
+  },
+  "_source": "https://github.com/ThomasR/JSON.sortify.git",
+  "_target": "~2.1.0",
+  "_originalSource": "json.sortify"
+}

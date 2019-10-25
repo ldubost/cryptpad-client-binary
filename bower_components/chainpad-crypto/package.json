@@ -1,0 +1,23 @@
+{
+  "name": "chainpad-crypto",
+  "version": "0.2.4",
+  "description": "",
+  "main": "crypto.js",
+  "scripts": {
+    "test": "node test.js",
+    "lint": "jshint . --config .jshintrc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwiki-labs/chainpad-crypto.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/xwiki-labs/chainpad-crypto/issues"
+  },
+  "homepage": "https://github.com/xwiki-labs/chainpad-crypto#readme",
+  "dependencies": {
+    "tweetnacl": "git://github.com/dchest/tweetnacl-js.git#v0.12.2"
+  }
+}
